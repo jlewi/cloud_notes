@@ -15,6 +15,7 @@ Some suggested VM settings
 * 1 TB boot disk
 * **disable** delete boot disk on instance delete
 * No additional disks
+* Allow IP Forwarding
 
 TODO(jlewi) Would it be better to store data on separate PD?
 
